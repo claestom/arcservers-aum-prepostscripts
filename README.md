@@ -1,1 +1,1 @@
-# arcservers-aum-prepostscripts
+# Pre- & post scripts for Azure Arc-enabled Servers
